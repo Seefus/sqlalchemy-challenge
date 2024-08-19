@@ -100,9 +100,10 @@ def start_end(start, end):
 if __name__ == "__main__":
     app.run(debug=True)
 
-http://127.0.0.1:5000/
-http://127.0.0.1:5000/api/v1.0/precipitation
-http://127.0.0.1:5000/api/v1.0/stations
-http://127.0.0.1:5000/api/v1.0/tobs
-http://127.0.0.1:5000/api/v1.0/2016-08-24
-http://127.0.0.1:5000/api/v1.0/2016-09-08/2016-11-01
+# test urls and examples
+#http://127.0.0.1:5000/
+#http://127.0.0.1:5000/api/v1.0/precipitation
+#http://127.0.0.1:5000/api/v1.0/stations
+#http://127.0.0.1:5000/api/v1.0/tobs
+#http://127.0.0.1:5000/api/v1.0/2016-08-24
+#http://127.0.0.1:5000/api/v1.0/2016-09-08/2016-11-01
